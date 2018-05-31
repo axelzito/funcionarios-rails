@@ -1,341 +1,2965 @@
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:00:30 -0300
+
+RuntimeError - Could not load database configuration. No such file - ["config/database.yml"]:
+
+Started POST "/__better_errors/0c8519efbcdc810d/variables" for 127.0.0.1 at 2018-05-30 19:00:30 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:00:32 -0300
+
+RuntimeError - Could not load database configuration. No such file - ["config/database.yml"]:
+
+Started POST "/__better_errors/f2b0d5dab566b545/variables" for 127.0.0.1 at 2018-05-30 19:00:32 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:01:41 -0300
+
+RuntimeError - Could not load database configuration. No such file - ["config/database.yml"]:
+
+Started POST "/__better_errors/6190b3aaab6c4af6/variables" for 127.0.0.1 at 2018-05-30 19:01:41 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:03:21 -0300
+
+RuntimeError - Could not load database configuration. No such file - ["config/database.yml"]:
+
+Started POST "/__better_errors/46147d12e0493178/variables" for 127.0.0.1 at 2018-05-30 19:03:21 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:27 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/054d6b4b86d5638b/variables" for 127.0.0.1 at 2018-05-30 19:04:27 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:27 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/a018aac27c69236f/variables" for 127.0.0.1 at 2018-05-30 19:04:28 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:28 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/fc9a4a8119755d6c/variables" for 127.0.0.1 at 2018-05-30 19:04:28 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:28 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/c26087afa1a7fa12/variables" for 127.0.0.1 at 2018-05-30 19:04:28 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/9e3e03a5463ec7bd/variables" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/948d4d17072ffe60/variables" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/b540efa81d8d11b4/variables" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/b1c5b6574d282d56/variables" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/a8c8e531d48ffa33/variables" for 127.0.0.1 at 2018-05-30 19:04:29 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:04:30 -0300
+
+ActiveRecord::PendingMigrationError - Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+:
+
+Started POST "/__better_errors/e8dff95fa2aad830/variables" for 127.0.0.1 at 2018-05-30 19:04:30 -0300
   [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
-  [1m[35m (96.2ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
-  [1m[35m (98.0ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (96.8ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (75.5ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
   [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
 Migrating to CreateWorkspaces (20171211191210)
   [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "workspaces" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "workspaces" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
   [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20171211191210"]]
-  [1m[35m (76.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (81.6ms)[0m  [1m[36mcommit transaction[0m
 Migrating to CreateJobRoles (20171211191243)
   [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "job_roles" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20171211191243"]]
-  [1m[35m (96.3ms)[0m  [1m[36mcommit transaction[0m
-Migrating to CreateContatos (20180529185116)
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "job_roles" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20171211191243"]]
+  [1m[35m (74.6ms)[0m  [1m[36mcommit transaction[0m
+Migrating to CreateFuncionarios (20180530014219)
   [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (1.1ms)[0m  [1m[35mCREATE TABLE "contatos" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "nome" varchar, "matricula" varchar, "nascimento" varchar, "municipio" varchar, "estado_id" integer, "civil_id" integer, "sexo_id" integer, "trabalho" varchar, "cargo" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_f656f93f45"
-FOREIGN KEY ("estado_id")
-  REFERENCES "estados" ("id")
-, CONSTRAINT "fk_rails_2a56ec4364"
-FOREIGN KEY ("civil_id")
-  REFERENCES "civils" ("id")
-, CONSTRAINT "fk_rails_11fb962819"
-FOREIGN KEY ("sexo_id")
-  REFERENCES "sexos" ("id")
-)[0m
-  [1m[35m (0.3ms)[0m  [1m[35mCREATE  INDEX "index_contatos_on_estado_id" ON "contatos" ("estado_id")[0m
-  [1m[35m (0.2ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-[0m
-  [1m[35m (0.2ms)[0m  [1m[35mCREATE  INDEX "index_contatos_on_civil_id" ON "contatos" ("civil_id")[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[35mCREATE  INDEX "index_contatos_on_sexo_id" ON "contatos" ("sexo_id")[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180529185116"]]
-  [1m[35m (81.5ms)[0m  [1m[36mcommit transaction[0m
-Migrating to CreateEstados (20180529185504)
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.9ms)[0m  [1m[35mCREATE TABLE "estados" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "estado" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
-  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180529185504"]]
-  [1m[35m (62.9ms)[0m  [1m[36mcommit transaction[0m
-Migrating to CreateCivils (20180529185553)
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "civils" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "civil" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180529185553"]]
-  [1m[35m (74.5ms)[0m  [1m[36mcommit transaction[0m
-Migrating to CreateSexos (20180529185610)
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "sexos" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "sexo" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
-  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180529185610"]]
-  [1m[35m (61.1ms)[0m  [1m[36mcommit transaction[0m
-  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-05-29 19:12:15.279658"], ["updated_at", "2018-05-29 19:12:15.279658"]]
-  [1m[35m (70.3ms)[0m  [1m[36mcommit transaction[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-[0m
-  [1m[35m (0.2ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-[0m
-  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-Migrating to CreateSexos (20180529185610)
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (198.3ms)[0m  [1m[35mDROP TABLE "sexos"[0m
-  [1m[35mSQL (0.4ms)[0m  [1m[31mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = ?[0m  [["version", "20180529185610"]]
-  [1m[35m (333.4ms)[0m  [1m[36mcommit transaction[0m
-  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.2ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-[0m
-  [1m[35m (0.2ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-[0m
-  [1m[35m (0.2ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-[0m
-  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-Migrating to CreateSexos (20180529185610)
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
-  [1m[35m (1.6ms)[0m  [1m[35mCREATE TABLE "sexos" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "sexo" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180529185610"]]
-  [1m[35m (92.5ms)[0m  [1m[36mcommit transaction[0m
-Migrating to CreateContatos (20180529191906)
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.6ms)[0m  [1m[35mCREATE TABLE "contatos" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "nome" varchar, "matricula" varchar, "nascimento" varchar, "municipio" varchar, "estado_id" integer, "civil_id" integer, "sexo_id" integer, "job_id" integer, "workspace_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_f656f93f45"
-FOREIGN KEY ("estado_id")
-  REFERENCES "estados" ("id")
-, CONSTRAINT "fk_rails_2a56ec4364"
-FOREIGN KEY ("civil_id")
-  REFERENCES "civils" ("id")
-, CONSTRAINT "fk_rails_11fb962819"
-FOREIGN KEY ("sexo_id")
-  REFERENCES "sexos" ("id")
-, CONSTRAINT "fk_rails_2add07eb1c"
-FOREIGN KEY ("job_id")
-  REFERENCES "jobs" ("id")
-, CONSTRAINT "fk_rails_d16b979d15"
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "funcionarios" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "nome" varchar, "matricula" varchar, "nascimento" varchar, "sexo" varchar, "civil" varchar, "cidade" varchar, "estado" varchar, "workspace_id" integer, "job_role_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_3703490894"
 FOREIGN KEY ("workspace_id")
   REFERENCES "workspaces" ("id")
+, CONSTRAINT "fk_rails_f4e22c9fe2"
+FOREIGN KEY ("job_role_id")
+  REFERENCES "job_roles" ("id")
 )[0m
-  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
-  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-Migrating to CreateSexos (20180529185610)
-  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (1.3ms)[0m  [1m[35mDROP TABLE "sexos"[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[31mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = ?[0m  [["version", "20180529185610"]]
-  [1m[35m (88.3ms)[0m  [1m[36mcommit transaction[0m
-  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE  INDEX "index_funcionarios_on_workspace_id" ON "funcionarios" ("workspace_id")[0m
   [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
             FROM sqlite_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
+            WHERE name='index_funcionarios_on_workspace_id' AND type='index'
             UNION ALL
             SELECT sql
             FROM sqlite_temp_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
+            WHERE name='index_funcionarios_on_workspace_id' AND type='index'
 [0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-[0m
-  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-Migrating to CreateCivils (20180529185553)
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE  INDEX "index_funcionarios_on_job_role_id" ON "funcionarios" ("job_role_id")[0m
+  [1m[35mSQL (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180530014219"]]
+  [1m[35m (83.0ms)[0m  [1m[36mcommit transaction[0m
+Migrating to CreateTrabalhadors (20180530125848)
   [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (1.3ms)[0m  [1m[35mDROP TABLE "civils"[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[31mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = ?[0m  [["version", "20180529185553"]]
-  [1m[35m (74.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.7ms)[0m  [1m[35mCREATE TABLE "trabalhadors" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "nome" varchar, "matricula" varchar, "nascimento" varchar, "sexo" varchar, "civil" varchar, "cidade" varchar, "estado" varchar, "workspace" varchar, "job_role" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180530125848"]]
+  [1m[35m (103.5ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-05-30 22:06:26.561541"], ["updated_at", "2018-05-30 22:06:26.561541"]]
+  [1m[35m (46.1ms)[0m  [1m[36mcommit transaction[0m
   [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
   [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
             FROM sqlite_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
+            WHERE name='index_funcionarios_on_job_role_id' AND type='index'
             UNION ALL
             SELECT sql
             FROM sqlite_temp_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
+            WHERE name='index_funcionarios_on_job_role_id' AND type='index'
 [0m
   [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
             FROM sqlite_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
+            WHERE name='index_funcionarios_on_workspace_id' AND type='index'
             UNION ALL
             SELECT sql
             FROM sqlite_temp_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
+            WHERE name='index_funcionarios_on_workspace_id' AND type='index'
 [0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-Migrating to CreateEstados (20180529185504)
-  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.4ms)[0m  [1m[35mDROP TABLE "estados"[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[31mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = ?[0m  [["version", "20180529185504"]]
-  [1m[35m (96.1ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:06:41 -0300
   [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.3ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-[0m
-  [1m[35m (0.3ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-[0m
-  [1m[35m (0.2ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-[0m
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (5.2ms)
+Completed 500 Internal Server Error in 18ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:52:in `_app_views_trabalhadors_index_html_erb__2098826440601680592_32151220'
+
+Started POST "/__better_errors/9d22b6505808474c/variables" for 127.0.0.1 at 2018-05-30 19:06:41 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:06:43 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (4.1ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:52:in `_app_views_trabalhadors_index_html_erb__2098826440601680592_46606180'
+
+Started POST "/__better_errors/08f742a90417f598/variables" for 127.0.0.1 at 2018-05-30 19:06:43 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:06:44 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (5.1ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:52:in `_app_views_trabalhadors_index_html_erb__2098826440601680592_50308140'
+
+Started POST "/__better_errors/721fff42558ff84d/variables" for 127.0.0.1 at 2018-05-30 19:06:44 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:06:45 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:52:in `_app_views_trabalhadors_index_html_erb__2098826440601680592_43832000'
+
+Started POST "/__better_errors/07a53f22f02cc46c/variables" for 127.0.0.1 at 2018-05-30 19:06:45 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:06:48 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (5.9ms)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:52:in `_app_views_trabalhadors_index_html_erb__2098826440601680592_33801800'
+
+Started POST "/__better_errors/092d1fe963d0764d/variables" for 127.0.0.1 at 2018-05-30 19:06:48 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:12:35 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 320ms (Views: 318.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:12:37 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (4.0ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:52:in `_app_views_trabalhadors_index_html_erb__2098826440601680592_70209931384200'
+
+Started POST "/__better_errors/f42322482a94c2a9/variables" for 127.0.0.1 at 2018-05-30 19:12:37 -0300
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 19:12:52 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (498.7ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (499.9ms)
+Completed 200 OK in 548ms (Views: 519.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/trabalhadors/" for 127.0.0.1 at 2018-05-30 19:14:41 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (5.8ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:52:in `_app_views_trabalhadors_index_html_erb__2098826440601680592_70209897589000'
+
+Started POST "/__better_errors/0af432f7c0de099c/variables" for 127.0.0.1 at 2018-05-30 19:14:41 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:15:07 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 27ms (Views: 25.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:17:47 -0300
   [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_sexo_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_civil_id' AND type='index'
-[0m
-  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
-            FROM sqlite_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-            UNION ALL
-            SELECT sql
-            FROM sqlite_temp_master
-            WHERE name='index_contatos_on_estado_id' AND type='index'
-[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 242ms (Views: 234.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 19:17:49 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (441.2ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (442.4ms)
+Completed 200 OK in 477ms (Views: 460.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:17:58 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (11.4ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:52:in `_app_views_trabalhadors_index_html_erb___385420935755657235_70265145599220'
+
+Started POST "/__better_errors/b328dc504032b82c/variables" for 127.0.0.1 at 2018-05-30 19:17:58 -0300
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 19:18:02 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (3.5ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 26ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:18:24 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (5.2ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:52:in `_app_views_trabalhadors_index_html_erb___385420935755657235_70265139045320'
+
+Started POST "/__better_errors/9d8f432e8c2b003f/variables" for 127.0.0.1 at 2018-05-30 19:18:24 -0300
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 19:18:30 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (4.5ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 29ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:20:55 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:6:in `_app_views_home_index_html_erb___1070090338940383825_70265146221860'
+
+Started POST "/__better_errors/979569fc70e6e77f/variables" for 127.0.0.1 at 2018-05-30 19:20:55 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:21:01 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:6:in `_app_views_home_index_html_erb___1070090338940383825_70265143287860'
+
+Started POST "/__better_errors/a8018a43a911fd8a/variables" for 127.0.0.1 at 2018-05-30 19:21:01 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:21:44 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:6:in `_app_views_home_index_html_erb___1070090338940383825_70265139373320'
+
+Started POST "/__better_errors/da73c667835be968/variables" for 127.0.0.1 at 2018-05-30 19:21:44 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:21:45 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:6:in `_app_views_home_index_html_erb___1070090338940383825_70265132500880'
+
+Started POST "/__better_errors/7e8a2ce58c6d0caf/variables" for 127.0.0.1 at 2018-05-30 19:21:45 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:21:46 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:6:in `_app_views_home_index_html_erb___1070090338940383825_70265146092080'
+
+Started POST "/__better_errors/7b7c316ddb25a2cf/variables" for 127.0.0.1 at 2018-05-30 19:21:46 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:21:47 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.9ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:6:in `_app_views_home_index_html_erb___1070090338940383825_70265139270800'
+
+Started POST "/__better_errors/b8f8c724265d494e/variables" for 127.0.0.1 at 2018-05-30 19:21:47 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:22:00 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:6:in `_app_views_home_index_html_erb___1070090338940383825_26676800'
+
+Started POST "/__better_errors/aa7440c260d925b6/variables" for 127.0.0.1 at 2018-05-30 19:22:00 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:22:01 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 29ms (Views: 27.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 19:22:04 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (13.1ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 57ms (Views: 53.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:22:28 -0300
+Processing by TrabalhadorsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"fpufgSInz8etIn9ED3quj9N7g9iveYl5ynrkDaA4w6WQrQ7cGeZ+aMnkrf7hxi3MmGzj+VeL3gItoecWmiJ16Q==", "trabalhador"=>{"nome"=>"axel", "matricula"=>"125", "nascimento"=>"125", "sexo"=>"M", "civil"=>"solteiro", "cidade"=>"goiania", "estado"=>"goias", "workspace"=>"iu", "job_role"=>"iu"}, "commit"=>"Create Trabalhador"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "trabalhadors" ("nome", "matricula", "nascimento", "sexo", "civil", "cidade", "estado", "workspace", "job_role", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["nome", "axel"], ["matricula", "125"], ["nascimento", "125"], ["sexo", "M"], ["civil", "solteiro"], ["cidade", "goiania"], ["estado", "goias"], ["workspace", "iu"], ["job_role", "iu"], ["created_at", "2018-05-30 22:22:28.336989"], ["updated_at", "2018-05-30 22:22:28.336989"]]
+  [1m[35m (313.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://0.0.0.0:3000/trabalhadors/1
+Completed 302 Found in 323ms (ActiveRecord: 313.5ms)
+
+
+Started GET "/trabalhadors/1" for 127.0.0.1 at 2018-05-30 19:22:28 -0300
+Processing by TrabalhadorsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering trabalhadors/show.html.erb within layouts/application
+  Rendered trabalhadors/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 37ms (Views: 31.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:22:31 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (26.4ms)
+Completed 500 Internal Server Error in 32ms (ActiveRecord: 0.0ms)
+
+
+
+NoMethodError - undefined method `each' for nil:NilClass:
+  app/views/trabalhadors/index.html.erb:26:in `_app_views_trabalhadors_index_html_erb___385420935755657235_70265148256560'
+
+Started POST "/__better_errors/83819dd79a215a99/variables" for 127.0.0.1 at 2018-05-30 19:22:31 -0300
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:24:18 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 48ms (Views: 42.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 19:26:03 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (7.7ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 31ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:26:34 -0300
+Processing by TrabalhadorsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"G/Zjp7XW7FSOaDk0x9Ec+uWCFlvl+Gtxxq4xHNxyfxr1wPL6jhdd++qu644pbZ+5rpV2eh0KPAohdTIH5mjJVg==", "trabalhador"=>{"nome"=>"may", "matricula"=>"3536", "nascimento"=>"3535", "sexo"=>"fem", "civil"=>"solteira", "cidade"=>"goiania", "estado"=>"goias", "workspace"=>"papel", "job_role"=>"dona"}, "commit"=>"Create Trabalhador"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.5ms)[0m  [1m[32mINSERT INTO "trabalhadors" ("nome", "matricula", "nascimento", "sexo", "civil", "cidade", "estado", "workspace", "job_role", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["nome", "may"], ["matricula", "3536"], ["nascimento", "3535"], ["sexo", "fem"], ["civil", "solteira"], ["cidade", "goiania"], ["estado", "goias"], ["workspace", "papel"], ["job_role", "dona"], ["created_at", "2018-05-30 22:26:34.561619"], ["updated_at", "2018-05-30 22:26:34.561619"]]
+  [1m[35m (216.3ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://0.0.0.0:3000/trabalhadors/2
+Completed 302 Found in 227ms (ActiveRecord: 217.9ms)
+
+
+Started GET "/trabalhadors/2" for 127.0.0.1 at 2018-05-30 19:26:34 -0300
+Processing by TrabalhadorsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering trabalhadors/show.html.erb within layouts/application
+  Rendered trabalhadors/show.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 39ms (Views: 36.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:26:36 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 39ms (Views: 36.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:26:40 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.4ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%ax%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 39ms (Views: 37.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_sexo=fe&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:26:45 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_sexo"=>"fe", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (sexo like '%fe%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 44ms (Views: 41.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_workspace=gg&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:26:52 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_workspace"=>"gg", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (workspace like '%gg%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 52ms (Views: 50.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_workspace=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:26:54 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_workspace"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (workspace like '%%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 31ms (Views: 27.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_workspace=iu&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:26:59 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_workspace"=>"iu", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (workspace like '%iu%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 26ms (Views: 23.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_workspace=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:27:00 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_workspace"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (workspace like '%%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 26ms (Views: 23.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_job=dona&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:27:06 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_job"=>"dona", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.4ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (job_role like '%dona%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 60ms (Views: 55.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_job=dona&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:31:57 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_job"=>"dona", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (job_role like '%dona%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 27ms (Views: 25.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_job=dona&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:31:59 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_job"=>"dona", "commit"=>"Buscar"}
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+Completed 500 Internal Server Error in 222ms
+
+
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+
+NoMethodError - undefined method `busca_trabalhador' for #<TrabalhadorsController:0x00007fcfc07f9170>:
+  app/controllers/trabalhadors_controller.rb:9:in `index'
+
+Started POST "/__better_errors/355a9f9647da9d2f/variables" for 127.0.0.1 at 2018-05-30 19:31:59 -0300
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_job=dona&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:32:02 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_job"=>"dona", "commit"=>"Buscar"}
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+Completed 500 Internal Server Error in 161ms (ActiveRecord: 0.0ms)
+
+
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+
+NoMethodError - undefined method `busca_trabalhador' for #<TrabalhadorsController:0x0000000005153470>:
+  app/controllers/trabalhadors_controller.rb:9:in `index'
+
+Started POST "/__better_errors/8dff80be91fcc914/variables" for 127.0.0.1 at 2018-05-30 19:32:02 -0300
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_job=dona&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:32:17 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_job"=>"dona", "commit"=>"Buscar"}
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+Completed 500 Internal Server Error in 172ms (ActiveRecord: 0.0ms)
+
+
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+
+NoMethodError - undefined method `busca_trabalhador' for #<TrabalhadorsController:0x000000000335c228>:
+  app/controllers/trabalhadors_controller.rb:9:in `index'
+
+Started POST "/__better_errors/ac4c2a01ea089ffb/variables" for 127.0.0.1 at 2018-05-30 19:32:17 -0300
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mCACHE Trabalhador Load (0.0ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_job=dona&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:32:18 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_job"=>"dona", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (26.4ms)
+Completed 200 OK in 57ms (Views: 53.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_job=dona&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:32:19 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_job"=>"dona", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 36ms (Views: 34.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_job=dona&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:32:20 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_job"=>"dona", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 41ms (Views: 39.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search_job=dona&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:32:27 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search_job"=>"dona", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 56ms (Views: 26.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:32:34 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 30ms (Views: 28.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:32:39 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 24ms (Views: 22.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 19:32:40 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (4.7ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 27ms (Views: 25.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:32:42 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.5ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (10.6ms)
+Completed 200 OK in 44ms (Views: 41.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:32:59 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 28ms (Views: 26.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:33:02 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.7ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 55ms (Views: 51.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:33:03 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 33ms (Views: 30.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:33:44 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 30ms (Views: 28.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:33:44 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 45ms (Views: 43.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:33:44 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (17.2ms)
+Completed 200 OK in 43ms (Views: 37.2ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:33:45 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 28ms (Views: 27.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:33:45 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.4ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 27ms (Views: 25.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:33:45 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 27ms (Views: 25.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:33:49 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%ax%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 30ms (Views: 28.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:36:34 -0300
   [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
-Migrating to CreateEstados (20180529185504)
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%ax%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (20.5ms)
+Completed 200 OK in 268ms (Views: 257.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:37:40 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%ax%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (16.1ms)
+Completed 200 OK in 221ms (Views: 208.5ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:37:45 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 59ms (Views: 55.8ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:37:45 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 55ms (Views: 51.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:37:50 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:41:46 -0300
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 311ms (Views: 304.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:43:28 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 66ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:43:31 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (424.4ms)
+Completed 500 Internal Server Error in 432ms (ActiveRecord: 0.0ms)
+
+
+
+NameError - undefined local variable or method `search' for #<#<Class:0x0000000003d20d40>:0x0000000005abb9b8>:
+  app/views/home/index.html.erb:6:in `_app_views_home_index_html_erb___2449479442833777013_47595720'
+
+Started POST "/__better_errors/17477e7aea71c709/variables" for 127.0.0.1 at 2018-05-30 19:43:32 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:43:48 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (663.3ms)
+Completed 500 Internal Server Error in 667ms (ActiveRecord: 0.0ms)
+
+
+
+NameError - undefined local variable or method `search' for #<#<Class:0x0000000003d20d40>:0x00000000054532b0>:
+  app/views/home/index.html.erb:6:in `_app_views_home_index_html_erb___2449479442833777013_44255220'
+
+Started POST "/__better_errors/0d6f7c47e912fe5a/variables" for 127.0.0.1 at 2018-05-30 19:43:49 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:44:17 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 51ms (Views: 48.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search" for 127.0.0.1 at 2018-05-30 19:44:21 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/search"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.0) lib/puma/configuration.rb:225:in `call'
+puma (3.11.0) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.0) lib/puma/server.rb:438:in `process_client'
+puma (3.11.0) lib/puma/server.rb:302:in `block in run'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/rails/info/routes?path=sear" for 127.0.0.1 at 2018-05-30 19:44:50 -0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"sear"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search" for 127.0.0.1 at 2018-05-30 19:45:15 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/search"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.11.0) lib/puma/configuration.rb:225:in `call'
+puma (3.11.0) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.0) lib/puma/server.rb:438:in `process_client'
+puma (3.11.0) lib/puma/server.rb:302:in `block in run'
+puma (3.11.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:45:18 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 36ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search/busca" for 127.0.0.1 at 2018-05-30 19:45:20 -0300
+Processing by SearchController#busca as HTML
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 37ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:46:16 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:7:in `_app_views_home_index_html_erb___2449479442833777013_70111215408940'
+
+Started POST "/__better_errors/0e16b7826c84e4be/variables" for 127.0.0.1 at 2018-05-30 19:46:16 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:46:18 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:7:in `_app_views_home_index_html_erb___2449479442833777013_70111340199260'
+
+Started POST "/__better_errors/35570d6a653e2adb/variables" for 127.0.0.1 at 2018-05-30 19:46:19 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:46:20 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.3ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:7:in `_app_views_home_index_html_erb___2449479442833777013_46015940'
+
+Started POST "/__better_errors/0136a6205ff21be2/variables" for 127.0.0.1 at 2018-05-30 19:46:20 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:46:35 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.9ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"trabalhadors"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:7:in `_app_views_home_index_html_erb___2449479442833777013_70111322745900'
+
+Started POST "/__better_errors/9a861a87f9a5ff78/variables" for 127.0.0.1 at 2018-05-30 19:46:35 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:46:36 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 27ms (Views: 25.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:46:37 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 24ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:46:45 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (24.7ms)
+Completed 200 OK in 65ms (Views: 57.9ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:46:58 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 31ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:47:08 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 41ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:47:09 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 38ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:48:05 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 34ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:48:07 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 50ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:50:51 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 26ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:50:54 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 28ms (Views: 26.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/search/busca" for 127.0.0.1 at 2018-05-30 19:51:02 -0300
+Processing by SearchController#busca as HTML
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 34ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:51:08 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 28ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:53:38 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 29ms (Views: 28.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:53:39 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 26ms (Views: 25.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:53:40 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 27ms (Views: 26.4ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:53:40 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 28ms (Views: 26.7ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:53:40 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 29ms (Views: 27.8ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:53:40 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 27ms (Views: 25.5ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:53:40 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 42ms (Views: 41.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:53:45 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 29ms (Views: 28.1ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:54:03 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 28ms (Views: 27.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:54:04 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 24ms (Views: 23.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:54:09 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 29ms (Views: 28.5ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:54:12 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 39ms (Views: 35.0ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 19:54:18 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (378.3ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (379.5ms)
+Completed 200 OK in 402ms (Views: 400.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:54:21 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 46ms (Views: 42.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/search/busca" for 127.0.0.1 at 2018-05-30 19:54:26 -0300
+Processing by SearchController#busca as HTML
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 26ms (Views: 24.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:54:30 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 29ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:56:03 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 30ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:56:05 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 28ms (Views: 26.7ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:56:08 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 30ms (Views: 28.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:57:20 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 31ms (Views: 29.6ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:57:22 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 9ms
+
+
+
+SyntaxError - syntax error, unexpected keyword_ensure, expecting keyword_end
+          ensure
+                ^:
+  app/views/trabalhadors/index.html.erb:79:in `'
+
+Started POST "/__better_errors/02dfbcba381c099e/variables" for 127.0.0.1 at 2018-05-30 19:57:22 -0300
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:57:29 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 27ms (Views: 25.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:57:45 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 30ms (Views: 29.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:57:45 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 25ms (Views: 23.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:57:45 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:57:46 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 23ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:57:47 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (1.2ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+
+SyntaxError - syntax error, unexpected keyword_ensure, expecting keyword_end
+          ensure
+                ^:
+  app/views/trabalhadors/index.html.erb:79:in `'
+
+Started POST "/__better_errors/8d18aaed7ac11bd5/variables" for 127.0.0.1 at 2018-05-30 19:57:47 -0300
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:58:59 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  Rendered trabalhadors/index.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+
+SyntaxError - syntax error, unexpected keyword_ensure, expecting keyword_end
+          ensure
+                ^:
+  app/views/trabalhadors/index.html.erb:79:in `'
+
+Started POST "/__better_errors/1c1244f00f95ac41/variables" for 127.0.0.1 at 2018-05-30 19:58:59 -0300
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" LIMIT ?[0m  [["LIMIT", 11]]
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:59:00 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 30ms (Views: 28.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:59:45 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 26ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search/busca" for 127.0.0.1 at 2018-05-30 19:59:47 -0300
+Processing by SearchController#busca as HTML
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 27ms (Views: 26.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/search/busca?utf8=%E2%9C%93&search=axel&commit=Buscar" for 127.0.0.1 at 2018-05-30 19:59:53 -0300
+Processing by SearchController#busca as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"axel", "commit"=>"Buscar"}
+  Rendering search/busca.html.erb within layouts/application
+  Rendered search/busca.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 31ms (Views: 29.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 19:59:55 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 27ms (Views: 25.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 19:59:57 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 28ms (Views: 26.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors?utf8=%E2%9C%93&search=ax&commit=Buscar" for 127.0.0.1 at 2018-05-30 20:00:03 -0300
+Processing by TrabalhadorsController#index as HTML
+  Parameters: {"utf8"=>"✓", "search"=>"ax", "commit"=>"Buscar"}
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors" WHERE (nome like '%ax%')[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 32ms (Views: 29.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 20:01:22 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 35ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 20:01:36 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 32ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 20:01:38 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:01:39 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:05:24 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (6.0ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 29ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:07:51 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (6.6ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 36ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:07:54 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (5.1ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:07:57 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 32ms (Views: 29.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:00 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 42ms (Views: 40.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:01 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 33ms (Views: 31.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:13 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 32ms (Views: 30.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:14 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 32ms (Views: 30.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:15 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 30ms (Views: 29.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:15 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 29ms (Views: 27.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:15 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 27ms (Views: 26.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:16 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 31ms (Views: 29.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:16 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 39ms (Views: 37.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:16 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 31ms (Views: 29.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:16 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 28ms (Views: 26.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:16 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 28ms (Views: 26.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:17 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 29ms (Views: 28.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:17 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 27ms (Views: 25.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:17 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 28ms (Views: 26.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:17 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 31ms (Views: 29.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:17 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 37ms (Views: 35.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:17 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 33ms (Views: 30.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:18 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 31ms (Views: 29.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:18 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 31ms (Views: 30.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:33 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.4ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 32ms (Views: 30.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:34 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 36ms (Views: 34.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:34 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 29ms (Views: 27.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:34 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 40ms (Views: 39.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:09:34 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 28ms (Views: 26.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:10:24 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 33ms (Views: 31.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:10:25 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 29ms (Views: 27.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:11:27 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 30ms (Views: 28.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:11:33 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 28ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:11:36 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (6.9ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 34ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:11:39 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 33ms (Views: 31.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:12:03 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 36ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:12:05 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (4.1ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 33ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:12:06 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 31ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:12:07 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 32ms (Views: 30.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:12:12 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 46ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:12:19 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (5.5ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 37ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:12:37 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (6.5ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 33ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:12:43 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (6.1ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 33ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:13:25 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (12.6ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 39ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:13:26 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (1.1ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (2.1ms)
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+
+
+SyntaxError - syntax error, unexpected tIDENTIFIER, expecting ')'
+ form.text_field :estado civil, id: :trabalhador_civil );@ou
+                              ^:
+  app/views/trabalhadors/_form.html.erb:36:in `'
+  app/views/trabalhadors/new.html.erb:3:in `_app_views_trabalhadors_new_html_erb__454966238640417628_70111218161520'
+
+Started POST "/__better_errors/59a2f8fb1fb67440/variables" for 127.0.0.1 at 2018-05-30 20:13:26 -0300
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:13:44 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (5.6ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (6.8ms)
+Completed 200 OK in 31ms (Views: 30.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:13:45 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (4.6ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 33ms (Views: 32.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:13:50 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 26ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateContatos (20180530232634)
   [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
   [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
-  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "estados" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "estado" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180529185504"]]
-  [1m[35m (76.3ms)[0m  [1m[36mcommit transaction[0m
-Migrating to CreateCivils (20180529185553)
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "civils" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "civil" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180529185553"]]
-  [1m[35m (63.9ms)[0m  [1m[36mcommit transaction[0m
-Migrating to CreateSexos (20180529185610)
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "sexos" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "sexo" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
-  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180529185610"]]
-  [1m[35m (55.8ms)[0m  [1m[36mcommit transaction[0m
-Migrating to CreateContatos (20180529192403)
-  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
-  [1m[35m (0.6ms)[0m  [1m[35mCREATE TABLE "contatos" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "nome" varchar, "matricula" varchar, "nascimento" varchar, "municipio" varchar, "estado_id" integer, "civil_id" integer, "sexo_id" integer, "job_id" integer, "workspace_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_f656f93f45"
-FOREIGN KEY ("estado_id")
-  REFERENCES "estados" ("id")
-, CONSTRAINT "fk_rails_2a56ec4364"
-FOREIGN KEY ("civil_id")
-  REFERENCES "civils" ("id")
-, CONSTRAINT "fk_rails_11fb962819"
-FOREIGN KEY ("sexo_id")
-  REFERENCES "sexos" ("id")
-, CONSTRAINT "fk_rails_2add07eb1c"
-FOREIGN KEY ("job_id")
-  REFERENCES "jobs" ("id")
-, CONSTRAINT "fk_rails_d16b979d15"
-FOREIGN KEY ("workspace_id")
-  REFERENCES "workspaces" ("id")
+  [1m[35m (0.9ms)[0m  [1m[35mCREATE TABLE "contatos" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "trabalhador_id" integer, "telefone" varchar, "celular" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_b549c8dcea"
+FOREIGN KEY ("trabalhador_id")
+  REFERENCES "trabalhadors" ("id")
 )[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE  INDEX "index_contatos_on_trabalhador_id" ON "contatos" ("trabalhador_id")[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20180530232634"]]
+  [1m[35m (135.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_contatos_on_trabalhador_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_contatos_on_trabalhador_id' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_funcionarios_on_job_role_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_funcionarios_on_job_role_id' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_funcionarios_on_workspace_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_funcionarios_on_workspace_id' AND type='index'
+[0m
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:31:09 -0300
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"contatos"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:9:in `_app_views_home_index_html_erb___430766945409702219_34002940'
+
+Started POST "/__better_errors/1fac9e743365d4b4/variables" for 127.0.0.1 at 2018-05-30 20:31:10 -0300
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:31:32 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (26.4ms)
+Completed 500 Internal Server Error in 30ms (ActiveRecord: 0.0ms)
+
+
+
+ActionController::UrlGenerationError - No route matches {:action=>"show", :controller=>"contatos"}, missing required keys: [:id]:
+  app/views/home/index.html.erb:9:in `_app_views_home_index_html_erb___430766945409702219_41213380'
+
+Started POST "/__better_errors/8349093e7eec5e42/variables" for 127.0.0.1 at 2018-05-30 20:31:32 -0300
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:31:33 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 296ms (Views: 295.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 20:31:36 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  Rendered contatos/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 38ms (Views: 28.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 20:31:43 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (365.6ms)
+  Rendered contatos/new.html.erb within layouts/application (367.0ms)
+Completed 200 OK in 395ms (Views: 387.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 20:31:47 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  Rendered contatos/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 32ms (Views: 27.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:31:52 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.4ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (33.9ms)
+Completed 200 OK in 78ms (Views: 69.4ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:31:55 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 40ms (Views: 38.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 20:31:57 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (3.6ms)
+  Rendered contatos/new.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 36ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 20:32:21 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"uh6wQ+HiZB4Tf/DsLsjGcN7ryS6eyxT8pRb7vChGVP9eSmF8vav7FXfV2Eym20mlS/xXAx/GB8REFgUQ81neNQ==", "contato"=>{"trabalhador_id"=>"axel", "telefone"=>"34326561", "celular"=>"981260314", "email"=>"axel.ataides@gmail.com"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.5ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 0], ["LIMIT", 1]]
   [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (6.8ms)
+  Rendered contatos/new.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 75ms (Views: 44.4ms | ActiveRecord: 0.8ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 20:32:32 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rqhdSoVRIG8lWrgSgFkNiS4yWY90ELj87/DtrP4CjIeslkD+4078kw8xzNPoNb7zmoLB99zUN5CZRiidAiSZhA==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"34326561", "celular"=>"981260314", "email"=>"axel.ataides@gmail.com"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35mSQL (2.5ms)[0m  [1m[32mINSERT INTO "contatos" ("trabalhador_id", "telefone", "celular", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["trabalhador_id", 1], ["telefone", "34326561"], ["celular", "981260314"], ["email", "axel.ataides@gmail.com"], ["created_at", "2018-05-30 23:32:32.928484"], ["updated_at", "2018-05-30 23:32:32.928484"]]
+  [1m[35m (196.4ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://0.0.0.0:3000/contatos/1
+Completed 302 Found in 206ms (ActiveRecord: 199.3ms)
+
+
+Started GET "/contatos/1" for 127.0.0.1 at 2018-05-30 20:32:33 -0300
+Processing by ContatosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mContato Load (0.3ms)[0m  [1m[34mSELECT  "contatos".* FROM "contatos" WHERE "contatos"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering contatos/show.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/show.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 29ms (Views: 25.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 20:33:32 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 33ms (Views: 31.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:34:23 -0300
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 285ms (Views: 277.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 20:34:28 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.1ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (35.6ms)
+Completed 200 OK in 119ms (Views: 102.0ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 20:42:41 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (41.1ms)
+Completed 200 OK in 316ms (Views: 301.6ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 20:42:44 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (428.4ms)
+  Rendered contatos/new.html.erb within layouts/application (429.9ms)
+Completed 200 OK in 464ms (Views: 462.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 20:43:01 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"yvos1Gkl2wwv95vqAPAPsElak6rF4qw+1/B61w+WdQ0urv3rNWxEB0tds0qI44Bl3E0Nh0TvvwY28IR71In/xw==", "contato"=>{"trabalhador_id"=>"2", "telefone"=>"45", "celular"=>"", "email"=>""}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.6ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (11.5ms)
+  Rendered contatos/new.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 101ms (Views: 84.2ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 20:45:32 -0300
+Processing by ContatosController#index as HTML
+Completed 500 Internal Server Error in 13ms
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 20:45:42 -0300
+
+NameError - undefined local variable or method `celular' for Contato (call 'Contato.connection' to establish a connection):Class:
+  app/models/contato.rb:8:in `<class:Contato>'
+  app/models/contato.rb:1:in `<top (required)>'
+  app/controllers/contatos_controller.rb:7:in `index'
+
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"js8gauvAe/IsmzGQTx5/SOC3ZVKpbd190UC340HyDTuM8T3ejd+nDgbwRVEncswyVAf9KgGpUhGn9nLSvdQYOA==", "contato"=>{"trabalhador_id"=>"2", "telefone"=>"45", "celular"=>"as", "email"=>""}, "commit"=>"Create Contato"}
+Completed 500 Internal Server Error in 14ms
+
+
+
+NameError - undefined local variable or method `celular' for Contato (call 'Contato.connection' to establish a connection):Class:
+  app/models/contato.rb:8:in `<class:Contato>'
+  app/models/contato.rb:1:in `<top (required)>'
+  app/controllers/contatos_controller.rb:27:in `create'
+
+Started POST "/__better_errors/9108e4e78a193d3a/variables" for 127.0.0.1 at 2018-05-30 20:45:42 -0300
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 20:46:10 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"js8gauvAe/IsmzGQTx5/SOC3ZVKpbd190UC340HyDTuM8T3ejd+nDgbwRVEncswyVAf9KgGpUhGn9nLSvdQYOA==", "contato"=>{"trabalhador_id"=>"2", "telefone"=>"45", "celular"=>"as", "email"=>""}, "commit"=>"Create Contato"}
+Completed 500 Internal Server Error in 12ms
+
+
+
+NameError - undefined local variable or method `celular' for Contato (call 'Contato.connection' to establish a connection):Class:
+  app/models/contato.rb:8:in `<class:Contato>'
+  app/models/contato.rb:1:in `<top (required)>'
+  app/controllers/contatos_controller.rb:27:in `create'
+
+Started POST "/__better_errors/58d0b97135400b10/variables" for 127.0.0.1 at 2018-05-30 20:46:10 -0300
+Started GET "/" for 127.0.0.1 at 2018-05-30 20:46:20 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 51ms (Views: 48.2ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 20:46:24 -0300
+Processing by ContatosController#new as HTML
+Completed 500 Internal Server Error in 23ms
+
+
+
+NameError - undefined local variable or method `celular' for Contato (call 'Contato.connection' to establish a connection):Class:
+  app/models/contato.rb:8:in `<class:Contato>'
+  app/models/contato.rb:1:in `<top (required)>'
+  app/controllers/contatos_controller.rb:17:in `new'
+
+Started POST "/__better_errors/1ff080c63fb4e5c4/variables" for 127.0.0.1 at 2018-05-30 20:46:24 -0300
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 20:46:37 -0300
+Processing by ContatosController#new as HTML
+Completed 500 Internal Server Error in 14ms
+
+
+
+NameError - undefined local variable or method `celular' for Contato (call 'Contato.connection' to establish a connection):Class:
+  app/models/contato.rb:8:in `<class:Contato>'
+  app/models/contato.rb:1:in `<top (required)>'
+  app/controllers/contatos_controller.rb:17:in `new'
+
+Started POST "/__better_errors/1d2c571f1c483ba2/variables" for 127.0.0.1 at 2018-05-30 20:46:37 -0300
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 20:46:38 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (2.9ms)
+  Rendered contatos/new.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 42ms (Views: 30.4ms | ActiveRecord: 0.9ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 20:46:47 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"p/DyNCC1gsJAC6e7BOVrXb0ZFmeiHDBYK7zmMeM3IpOlzu+ARqpePmpg03psidgnCamOHwrYvzRdCiMAHxE3kA==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"er", "celular"=>"er", "email"=>"er"}, "commit"=>"Create Contato"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (6.4ms)
+  Rendered contatos/new.html.erb within layouts/application (8.1ms)
+Completed 200 OK in 86ms (Views: 40.4ms | ActiveRecord: 1.7ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 20:47:02 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6KnTcYMphLrmBjA7mnxPg0QrYiwwNHhzclPfJnfaWJbql87F5TZYRsxtRPryEPz58Jv6VJjw9x8E5RoXi/xNlQ==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"45", "celular"=>"45", "email"=>""}, "commit"=>"Create Contato"}
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (4.3ms)
+  Rendered contatos/new.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 45ms (Views: 39.5ms | ActiveRecord: 0.6ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 20:47:08 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"u0RH234sylwd3LRfvJDzvU6ZoOoL7Yzr7PHMr0EII9i5elpvGDMWoDe3wJ7U/EDH+ik4kqMpA4eaRwmevS422w==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"45", "celular"=>"r", "email"=>""}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (4.0ms)
+  Rendered contatos/new.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 56ms (Views: 50.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 20:47:19 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.3ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 51ms (Views: 49.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-05-30 20:57:56 -0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 269ms (Views: 261.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 20:57:58 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (421.0ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (422.1ms)
+Completed 200 OK in 475ms (Views: 454.7ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:58:00 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:58:02 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 58ms (Views: 55.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors/1/edit" for 127.0.0.1 at 2018-05-30 20:58:07 -0300
+Processing by TrabalhadorsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering trabalhadors/edit.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (8.8ms)
+  Rendered trabalhadors/edit.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 55ms (Views: 48.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 20:58:12 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.5ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 60ms (Views: 56.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:58:27 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 31ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 20:58:28 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.3ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (18.1ms)
+Completed 200 OK in 53ms (Views: 40.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 20:58:32 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (4.8ms)
+  Rendered contatos/new.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 33ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 20:58:33 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 31ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:02:21 -0300
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 309ms (Views: 302.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:02:23 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 68ms (Views: 66.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:02:23 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 66ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:02:24 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 33ms (Views: 32.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:02:25 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (26.6ms)
+Completed 200 OK in 58ms (Views: 49.2ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:13:06 -0300
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (20.9ms)
+Completed 200 OK in 297ms (Views: 284.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:13:08 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 21:13:11 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (418.5ms)
+  Rendered contatos/new.html.erb within layouts/application (419.8ms)
+Completed 200 OK in 465ms (Views: 450.3ms | ActiveRecord: 1.3ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:13:19 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"sQm3hj8QKMinAgk0i48bE1nF5FzyZ6EG7e8yAB03XVFVXWa5Y1m3w8OoIZQDnJTGzNJ6cXNqsj4M78ysxijXmw==", "contato"=>{"trabalhador_id"=>"5", "telefone"=>"", "celular"=>"5", "email"=>"5"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (6.0ms)
+  Rendered contatos/new.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 86ms (Views: 56.9ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:14:41 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DzrdVEkBrHw89ZljprceCNhst3uYA4gBnjANFdBkV/kNBMDgLx5wgBae7aLO261ybNwvAzDHB23ohsgkLEJC+g==", "contato"=>{"trabalhador_id"=>"5", "telefone"=>"", "celular"=>"", "email"=>""}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (3.8ms)
+  Rendered contatos/new.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 48ms (Views: 26.7ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:15:40 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 28ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 21:15:43 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (4.7ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 41ms (Views: 27.1ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:15:44 -0300
+Processing by TrabalhadorsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"lyXRjnA27805iJQ2mtLHnMJfeREbGMqWxhIsHOYGSlB5E0DTS/deYl1ORox0bkTfiUgZMOPqne0hyS8H3Bz8HA==", "trabalhador"=>{"nome"=>"", "matricula"=>"", "nascimento"=>"", "sexo"=>"", "civil"=>"", "cidade"=>"", "estado"=>"", "workspace"=>"", "job_role"=>""}, "commit"=>"Create Trabalhador"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (4.9ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 39ms (Views: 32.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:15:55 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:25:56 -0300
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 262ms (Views: 255.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:26:00 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (16.7ms)
+Completed 200 OK in 43ms (Views: 35.7ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 21:26:04 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (428.7ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (430.3ms)
+Completed 200 OK in 468ms (Views: 466.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:26:33 -0300
+Processing by TrabalhadorsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1RZfBUdsHRMlOLJ/uLert+51K7bfwQWLvNAr4W1BcB47IM5YfK2svEH+YMVWCyj0pWJLlyczUvBbCyj6V1vGUg==", "trabalhador"=>{"nome"=>"aae", "matricula"=>"125", "nascimento"=>"35", "sexo"=>"Femenino", "civil"=>"Solteiro", "cidade"=>"Goiânia", "estado"=>"Goiás", "workspace"=>"papel", "job_role"=>"Psicologa"}, "commit"=>"Create Trabalhador"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "trabalhadors" WHERE "trabalhadors"."matricula" = ? LIMIT ?[0m  [["matricula", "125"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (8.6ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 78ms (Views: 53.1ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:39:04 -0300
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by TrabalhadorsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gLiEDCasAiqz0upeJsK/7lTygwRHmTZQ4vAJVr8hhcuChpm4QLPe1pm5np9OrgyU4EIbfO9duTyURsxnQweQyA==", "trabalhador"=>{"nome"=>"aae", "matricula"=>"121", "nascimento"=>"35", "sexo"=>"Femenino", "civil"=>"Solteiro", "cidade"=>"Goiânia", "estado"=>"Goiás", "workspace"=>"papel", "job_role"=>"Psicologa"}, "commit"=>"Create Trabalhador"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "trabalhadors" WHERE "trabalhadors"."matricula" = ? LIMIT ?[0m  [["matricula", "121"], ["LIMIT", 1]]
+  [1m[35mSQL (0.8ms)[0m  [1m[32mINSERT INTO "trabalhadors" ("nome", "matricula", "nascimento", "sexo", "civil", "cidade", "estado", "workspace", "job_role", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["nome", "aae"], ["matricula", "121"], ["nascimento", "35"], ["sexo", "Femenino"], ["civil", "Solteiro"], ["cidade", "Goiânia"], ["estado", "Goiás"], ["workspace", "papel"], ["job_role", "Psicologa"], ["created_at", "2018-05-31 00:39:05.256055"], ["updated_at", "2018-05-31 00:39:05.256055"]]
+  [1m[35m (67.8ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://0.0.0.0:3000/trabalhadors/3
+Completed 302 Found in 105ms (ActiveRecord: 69.7ms)
+
+
+Started GET "/trabalhadors/3" for 127.0.0.1 at 2018-05-30 21:39:05 -0300
+Processing by TrabalhadorsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering trabalhadors/show.html.erb within layouts/application
+  Rendered trabalhadors/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 250ms (Views: 245.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:39:08 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.7ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 74ms (Views: 70.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:39:10 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 71ms (Views: 68.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:39:12 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (21.7ms)
+Completed 200 OK in 57ms (Views: 48.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 21:39:17 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (361.6ms)
+  Rendered contatos/new.html.erb within layouts/application (363.1ms)
+Completed 200 OK in 387ms (Views: 385.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:39:30 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"0sj3DU9Ko6efnO5fKGq55NyKLt33OX0n03+K3IilVt02nCYyEwM8rPs2xv+geTYxSZ2w8HY0bh8yf3RwU7rcFw==", "contato"=>{"trabalhador_id"=>"121", "telefone"=>"4545", "celular"=>"4545", "email"=>"ieie"}, "commit"=>"Create Contato"}
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 121], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.4ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "ieie"], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."trabalhador_id" = ? LIMIT ?[0m  [["trabalhador_id", 121], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (9.1ms)
+  Rendered contatos/new.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 70ms (Views: 55.4ms | ActiveRecord: 1.2ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:39:41 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6u8tyOcdb5W2amz5y7OhBW6gxAw+ngxc639DWIT/y3no0TB8gQKzaZwBGDij3xJ/2hBcdJZagzCdyYZpeNneeg==", "contato"=>{"trabalhador_id"=>"125", "telefone"=>"4545", "celular"=>"4545", "email"=>"ieie"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 125], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "ieie"], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."trabalhador_id" = ? LIMIT ?[0m  [["trabalhador_id", 125], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (4.3ms)
+  Rendered contatos/new.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 39ms (Views: 32.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:39:46 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 27ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:39:47 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 34ms (Views: 29.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:39:49 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 29ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:39:51 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 42ms (Views: 39.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:40:01 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 42ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:40:03 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 31ms (Views: 29.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/contatos/1/edit" for 127.0.0.1 at 2018-05-30 21:40:05 -0300
+Processing by ContatosController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT  "contatos".* FROM "contatos" WHERE "contatos"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering contatos/edit.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (3.4ms)
+  Rendered contatos/edit.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 29ms (Views: 26.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:40:09 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 33ms (Views: 30.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:40:11 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 30ms (Views: 28.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 21:40:13 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (6.2ms)
+  Rendered contatos/new.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 58ms (Views: 55.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:40:26 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"2csEtLpz+rkf9VImDndARvnjLa7EkC/rMty7PBCCdkg9n9WL5jplsntfeoaGZM+TbPSzg0WdPNPT3EWQy538gg==", "contato"=>{"trabalhador_id"=>"2", "telefone"=>"34", "celular"=>"56", "email"=>"gh"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "gh"], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."trabalhador_id" = ? LIMIT ?[0m  [["trabalhador_id", 2], ["LIMIT", 1]]
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "contatos" ("trabalhador_id", "telefone", "celular", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["trabalhador_id", 2], ["telefone", "34"], ["celular", "56"], ["email", "gh"], ["created_at", "2018-05-31 00:40:26.615011"], ["updated_at", "2018-05-31 00:40:26.615011"]]
+  [1m[35m (264.6ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://0.0.0.0:3000/contatos/2
+Completed 302 Found in 275ms (ActiveRecord: 265.5ms)
+
+
+Started GET "/contatos/2" for 127.0.0.1 at 2018-05-30 21:40:26 -0300
+Processing by ContatosController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mContato Load (0.1ms)[0m  [1m[34mSELECT  "contatos".* FROM "contatos" WHERE "contatos"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering contatos/show.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendered contatos/show.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 24ms (Views: 22.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:40:28 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.4ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 48ms (Views: 44.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 21:40:32 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (3.8ms)
+  Rendered contatos/new.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 40ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:40:41 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6Uzbnx2gqbkhiDjepUMJ8VNynMvrJVdcARWfxbR/054NGAqgQek2skUiEH4tUIYkxmUC5mooRGTgFWFpb2BZVA==", "contato"=>{"trabalhador_id"=>"2", "telefone"=>"er", "celular"=>"45", "email"=>"fg"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "fg"], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."trabalhador_id" = ? LIMIT ?[0m  [["trabalhador_id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (4.6ms)
+  Rendered contatos/new.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 42ms (Views: 36.6ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:40:45 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BOs6EJY+0oSwpwliDG8v4BimfYKldP8v3Rjx+vF1fUcG1Sek8CEOeJrMfaNkA5yarBbl+g2wcEOrrjTLDVNoRA==", "contato"=>{"trabalhador_id"=>"2", "telefone"=>"45", "celular"=>"45", "email"=>"fg"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "fg"], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."trabalhador_id" = ? LIMIT ?[0m  [["trabalhador_id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (4.6ms)
+  Rendered contatos/new.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 40ms (Views: 33.3ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:40:49 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 28ms (Views: 26.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:52:23 -0300
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 244ms (Views: 236.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:52:26 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.1ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (37.8ms)
+Completed 200 OK in 125ms (Views: 92.6ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 21:52:41 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (392.2ms)
+  Rendered contatos/new.html.erb within layouts/application (395.4ms)
+Completed 200 OK in 422ms (Views: 417.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:52:55 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"44aEHFklXGK9ZT4d0CeJXKdNRGvZLOV0X2ZGOk/QAOMH0lUjBWzDadnPFr1YNAaJMlraRlgh9ky+ZriWlM+KKQ==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"34326561", "celular"=>"45", "email"=>"sd"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "sd"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 25ms (ActiveRecord: 0.8ms)
+
+
+
+NameError - undefined local variable or method `exists' for #<Contato:0x00007ff1cdb99648>
+Did you mean?  exit
+               exit!:
+  app/models/contato.rb:21:in `exist_telefone'
+  app/controllers/contatos_controller.rb:30:in `block in create'
+  app/controllers/contatos_controller.rb:29:in `create'
+
+Started POST "/__better_errors/a5dbdba8bcca0601/variables" for 127.0.0.1 at 2018-05-30 21:52:55 -0300
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:53:30 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FDyjSwU43/idYXPQXjFwnULyo8I7P6eqe/T9+pEjPxwWAr7/YycDBLcKBxE2XcPn9kI7upP7KMYNQjjLbQUqHw==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"34326561", "celular"=>"45", "email"=>"sd"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "sd"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.6ms)
+
+
+
+NameError - undefined local variable or method `exists' for #<Contato:0x00007ff1cce4f0a0>
+Did you mean?  exit
+               exit!:
+  app/models/contato.rb:21:in `exist_telefone'
+  app/controllers/contatos_controller.rb:30:in `block in create'
+  app/controllers/contatos_controller.rb:29:in `create'
+
+Started POST "/__better_errors/0557ddb3151874dd/variables" for 127.0.0.1 at 2018-05-30 21:53:30 -0300
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:53:47 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FDyjSwU43/idYXPQXjFwnULyo8I7P6eqe/T9+pEjPxwWAr7/YycDBLcKBxE2XcPn9kI7upP7KMYNQjjLbQUqHw==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"34326561", "celular"=>"45", "email"=>"sd"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "sd"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 40ms (ActiveRecord: 2.5ms)
+
+
+
+NameError - undefined local variable or method `exists' for #<Contato:0x00007ff1ce10bef0>
+Did you mean?  exit
+               exit!:
+  app/models/contato.rb:21:in `exist_telefone'
+  app/controllers/contatos_controller.rb:30:in `block in create'
+  app/controllers/contatos_controller.rb:29:in `create'
+
+Started POST "/__better_errors/00570bb889433cb5/variables" for 127.0.0.1 at 2018-05-30 21:53:47 -0300
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:54:36 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FDyjSwU43/idYXPQXjFwnULyo8I7P6eqe/T9+pEjPxwWAr7/YycDBLcKBxE2XcPn9kI7upP7KMYNQjjLbQUqHw==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"34326561", "celular"=>"45", "email"=>"sd"}, "commit"=>"Create Contato"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "sd"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 38ms (ActiveRecord: 2.2ms)
+
+
+
+NameError - undefined local variable or method `exists' for #<Contato:0x00007ff1cd1a1190>
+Did you mean?  exit
+               exit!:
+  app/models/contato.rb:21:in `exist_telefone'
+  app/controllers/contatos_controller.rb:30:in `block in create'
+  app/controllers/contatos_controller.rb:29:in `create'
+
+Started POST "/__better_errors/f94fea22cb93caa3/variables" for 127.0.0.1 at 2018-05-30 21:54:36 -0300
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:54:44 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FDyjSwU43/idYXPQXjFwnULyo8I7P6eqe/T9+pEjPxwWAr7/YycDBLcKBxE2XcPn9kI7upP7KMYNQjjLbQUqHw==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"34326561", "celular"=>"45", "email"=>"sd"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.3ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "sd"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 39ms (ActiveRecord: 2.5ms)
+
+
+
+NameError - undefined local variable or method `exists' for #<Contato:0x000000000620acc8>
+Did you mean?  exit
+               exit!:
+  app/models/contato.rb:21:in `exist_telefone'
+  app/controllers/contatos_controller.rb:30:in `block in create'
+  app/controllers/contatos_controller.rb:29:in `create'
+
+Started POST "/__better_errors/a9406af55860caab/variables" for 127.0.0.1 at 2018-05-30 21:54:44 -0300
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:55:52 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FDyjSwU43/idYXPQXjFwnULyo8I7P6eqe/T9+pEjPxwWAr7/YycDBLcKBxE2XcPn9kI7upP7KMYNQjjLbQUqHw==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"34326561", "celular"=>"45", "email"=>"sd"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "sd"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Completed 500 Internal Server Error in 45ms (ActiveRecord: 2.1ms)
+
+
+
+NameError - undefined local variable or method `exists' for #<Contato:0x00007ff1cd615a00>
+Did you mean?  exit
+               exit!:
+  app/models/contato.rb:21:in `exist_telefone'
+  app/controllers/contatos_controller.rb:30:in `block in create'
+  app/controllers/contatos_controller.rb:29:in `create'
+
+Started POST "/__better_errors/c85dff833e8096a2/variables" for 127.0.0.1 at 2018-05-30 21:55:52 -0300
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:57:23 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FDyjSwU43/idYXPQXjFwnULyo8I7P6eqe/T9+pEjPxwWAr7/YycDBLcKBxE2XcPn9kI7upP7KMYNQjjLbQUqHw==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"34326561", "celular"=>"45", "email"=>"sd"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "sd"], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."trabalhador_id" = ? LIMIT ?[0m  [["trabalhador_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (6.4ms)
+  Rendered contatos/new.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 81ms (Views: 39.2ms | ActiveRecord: 2.3ms)
+
+
+Started POST "/contatos" for 127.0.0.1 at 2018-05-30 21:57:26 -0300
+Processing by ContatosController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"QjfSGAQqGG3moSR/bZBtV+AdpCN1AxNQOaLP96P7omNACc+sYjXEkczKUL4F/N4tVK08W93HnDxPFArGX923YA==", "contato"=>{"trabalhador_id"=>"1", "telefone"=>"34326561", "celular"=>"45", "email"=>"sd"}, "commit"=>"Create Contato"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."email" = ? LIMIT ?[0m  [["email", "sd"], ["LIMIT", 1]]
+  [1m[36mContato Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "contatos" WHERE "contatos"."trabalhador_id" = ? LIMIT ?[0m  [["trabalhador_id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (3.5ms)
+  Rendered contatos/new.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 51ms (Views: 40.9ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:57:27 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 53ms (Views: 51.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:57:31 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.3ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 34ms (Views: 31.8ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:57:38 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 27ms (Views: 25.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 21:57:39 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (4.9ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 28ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:57:41 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 46ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:57:42 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.5ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 51ms (Views: 47.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:57:52 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 27ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 21:57:59 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (3.7ms)
+  Rendered contatos/new.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 33ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:58:02 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 45ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors/new" for 127.0.0.1 at 2018-05-30 21:58:10 -0300
+Processing by TrabalhadorsController#new as HTML
+  Rendering trabalhadors/new.html.erb within layouts/application
+  Rendered trabalhadors/_form.html.erb (12.7ms)
+  Rendered trabalhadors/new.html.erb within layouts/application (15.8ms)
+Completed 200 OK in 84ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:58:12 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 53ms (Views: 50.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:58:14 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.6ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 69ms (Views: 64.4ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:58:19 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos/new" for 127.0.0.1 at 2018-05-30 21:58:20 -0300
+Processing by ContatosController#new as HTML
+  Rendering contatos/new.html.erb within layouts/application
+  Rendered contatos/_form.html.erb (7.7ms)
+  Rendered contatos/new.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 68ms (Views: 63.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:58:21 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 64ms (Views: 59.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:58:22 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 31ms (Views: 29.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:58:25 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 34ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/trabalhadors" for 127.0.0.1 at 2018-05-30 21:58:46 -0300
+Processing by TrabalhadorsController#index as HTML
+  Rendering trabalhadors/index.html.erb within layouts/application
+  [1m[36mTrabalhador Load (0.5ms)[0m  [1m[34mSELECT "trabalhadors".* FROM "trabalhadors"[0m
+  Rendered trabalhadors/index.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 39ms (Views: 37.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2018-05-30 21:58:48 -0300
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 39ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:58:54 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 35ms (Views: 33.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/contatos" for 127.0.0.1 at 2018-05-30 21:58:57 -0300
+Processing by ContatosController#index as HTML
+  Rendering contatos/index.html.erb within layouts/application
+  [1m[36mContato Load (0.2ms)[0m  [1m[34mSELECT "contatos".* FROM "contatos"[0m
+  [1m[36mTrabalhador Load (0.2ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mTrabalhador Load (0.1ms)[0m  [1m[34mSELECT  "trabalhadors".* FROM "trabalhadors" WHERE "trabalhadors"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  Rendered contatos/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 30ms (Views: 28.8ms | ActiveRecord: 0.5ms)
+
+

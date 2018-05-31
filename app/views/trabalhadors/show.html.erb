@@ -1,0 +1,49 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Nome:</strong>
+  <%= @trabalhador.nome %>
+</p>
+
+<p>
+  <strong>Matricula:</strong>
+  <%= @trabalhador.matricula %>
+</p>
+
+<p>
+  <strong>Nascimento:</strong>
+  <%= @trabalhador.nascimento %>
+</p>
+
+<p>
+  <strong>Sexo:</strong>
+  <%= @trabalhador.sexo %>
+</p>
+
+<p>
+  <strong>Civil:</strong>
+  <%= @trabalhador.civil %>
+</p>
+
+<p>
+  <strong>Cidade:</strong>
+  <%= @trabalhador.cidade %>
+</p>
+
+<p>
+  <strong>Estado:</strong>
+  <%= @trabalhador.estado %>
+</p>
+
+<p>
+  <strong>Workspace:</strong>
+  <%= @trabalhador.workspace %>
+</p>
+
+<p>
+  <strong>Job role:</strong>
+  <%= @trabalhador.job_role %>
+</p>
+
+<%= link_to 'Editar', edit_trabalhador_path(@trabalhador) %> |
+<%= link_to 'Voltar', trabalhadors_path %>

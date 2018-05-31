@@ -1,0 +1,81 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Lista de Trabalhadores</h1>
+
+<p1>Buscar funcionario por nome:</p1>
+
+<%= form_tag(@trabalhadors_path, :method => :get) do %>
+  <%=	  text_field_tag 'search', nil, placeholder: 'Digite o nome para buscar' %>
+  <%=	 submit_tag "Buscar" %>
+
+<% end %>
+
+<p1>Listar funcionarios por sexo:</p1>
+
+<%= form_tag(@trabalhadors_path, :method => :get) do %>
+  <%=	  text_field_tag 'search_sexo', nil, placeholder: 'Digite o sexo para buscar' %>
+  <%=	 submit_tag "Buscar" %>
+
+<% end %>
+
+<p1>Listar funcionarios por função:</p1>
+
+<%= form_tag(@trabalhadors_path, :method => :get) do %>
+
+  <%=	  text_field_tag 'search_workspace', nil, placeholder: 'Digite a lotação para buscar' %>
+  <%=	 submit_tag "Buscar" %>
+
+<% end %>
+
+<p1>Listar funcionarios por lotação:</p1>
+
+<%= form_tag(@trabalhadors_path, :method => :get) do %>
+
+  <%=	  text_field_tag 'search_job', nil, placeholder: 'Digite o trabalho para buscar' %>
+  <%=	 submit_tag "Buscar" %>
+
+<% end %>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Matricula</th>
+      <th>Nascimento</th>
+      <th>Sexo</th>
+      <th>Civil</th>
+      <th>Cidade</th>
+      <th>Estado</th>
+      <th>Workspace</th>
+      <th>Job role</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @trabalhadors.each do |trabalhador| %>
+      <tr>
+        <td><%= trabalhador.nome %></td>
+        <td><%= trabalhador.matricula %></td>
+        <td><%= trabalhador.nascimento %></td>
+        <td><%= trabalhador.sexo %></td>
+        <td><%= trabalhador.civil %></td>
+        <td><%= trabalhador.cidade %></td>
+        <td><%= trabalhador.estado %></td>
+        <td><%= trabalhador.workspace %></td>
+        <td><%= trabalhador.job_role %></td>
+        <td><%= link_to 'Show', trabalhador %></td>
+        <td><%= link_to 'Edit', edit_trabalhador_path(trabalhador) %></td>
+        <td><%= link_to 'Destroy', trabalhador, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'Inserir novo funcionario', new_trabalhador_path %>
+<br />
+<%= link_to 'Voltar', home_index_path %>

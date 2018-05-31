@@ -1,0 +1,38 @@
+<h1>Search#busca</h1>
+<p>Find me in app/views/search/busca.html.erb</p>
+
+<p1>Buscar funcionario por nome:</p1>
+
+<%= form_tag(@trabalhadors_path, :method => :get) do %>
+  <%=	  text_field_tag 'search', nil, placeholder: 'Digite o nome para buscar' %>
+  <%=	 submit_tag "Buscar" %>
+
+<% end %>
+
+<p1>Listar funcionarios por sexo:</p1>
+
+<%= form_tag(@trabalhadors_path, :method => :get) do %>
+  <%=	  text_field_tag 'search_sexo', nil, placeholder: 'Digite o sexo para buscar' %>
+  <%=	 submit_tag "Buscar" %>
+
+<% end %>
+
+<p1>Listar funcionarios por função:</p1>
+
+<%= form_tag(@trabalhadors_path, :method => :get) do %>
+
+  <%=	  text_field_tag 'search_workspace', nil, placeholder: 'Digite a lotação para buscar' %>
+  <%=	 submit_tag "Buscar" %>
+
+<% end %>
+
+<p1>Listar funcionarios por lotação:</p1>
+
+<%= form_tag(@trabalhadors_path, :method => :get) do %>
+
+  <%=	  text_field_tag 'search_job', nil, placeholder: 'Digite o trabalho para buscar' %>
+  <%=	 submit_tag "Buscar" %>
+
+<% end %>
+
+

@@ -1,2 +1,0 @@
-class Sexo < ApplicationRecord
-end

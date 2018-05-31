@@ -1,2 +1,0 @@
-class Civil < ApplicationRecord
-end

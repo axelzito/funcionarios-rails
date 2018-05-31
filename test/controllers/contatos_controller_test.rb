@@ -17,7 +17,7 @@ class ContatosControllerTest < ActionDispatch::IntegrationTest
 
   test "should create contato" do
     assert_difference('Contato.count') do
-      post contatos_url, params: { contato: { civil_id: @contato.civil_id, estado_id: @contato.estado_id, job_id: @contato.job_id, matricula: @contato.matricula, municipio: @contato.municipio, nascimento: @contato.nascimento, nome: @contato.nome, sexo_id: @contato.sexo_id, workspace_id: @contato.workspace_id } }
+      post contatos_url, params: { contato: { celular: @contato.celular, email: @contato.email, telefone: @contato.telefone, trabalhador_id: @contato.trabalhador_id } }
     end
 
     assert_redirected_to contato_url(Contato.last)
@@ -34,7 +34,7 @@ class ContatosControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update contato" do
-    patch contato_url(@contato), params: { contato: { civil_id: @contato.civil_id, estado_id: @contato.estado_id, job_id: @contato.job_id, matricula: @contato.matricula, municipio: @contato.municipio, nascimento: @contato.nascimento, nome: @contato.nome, sexo_id: @contato.sexo_id, workspace_id: @contato.workspace_id } }
+    patch contato_url(@contato), params: { contato: { celular: @contato.celular, email: @contato.email, telefone: @contato.telefone, trabalhador_id: @contato.trabalhador_id } }
     assert_redirected_to contato_url(@contato)
   end
 
